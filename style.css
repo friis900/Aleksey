@@ -1,0 +1,40 @@
+ul{
+    position: relative;
+   right: 200px;
+   text-align: right;
+}
+
+li{
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img{
+float: right;
+width: 42%;
+  height: 42%;
+  margin-top: 1em;
+  margin-right: 3em;
+}
+
+h1{
+    font-size: 380%;
+padding-top: 1em;
+
+margin-right: 2em;
+  margin-left: 4em
+
+   
+}
+
+
+p{
+    margin-left: 16em;
+    padding-top: 1rem;
+    font-weight: bold;
+
+}
