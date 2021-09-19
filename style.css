@@ -38,3 +38,31 @@ p{
     font-weight: bold;
 
 }
+
+select {
+    
+    position: relative;
+    
+    /*padding: 1em;
+    
+    margin-right: 1em;*/
+    
+    
+}
+
+table {
+    position: relative;
+    text-align: left;
+}
+
+input{
+    position: relative;
+    margin-top: 5rem;
+    margin-left: 16rem;
+
+}
+
+button{
+    
+    text-size-adjust: 1em;
+}
